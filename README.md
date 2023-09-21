@@ -18,7 +18,7 @@ Python scripts for convert openalex dataset to postgresql database.
 
 ## Result Schema
 
-![1718Zv](https://pic.techower.com/uPic/1718Zv.png)
+![zbNXgJ](https://pic.techower.com/uPic/zbNXgJ.png)
 
 ## Dumps ans Restore for PG
 
