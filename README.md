@@ -16,9 +16,15 @@ Python scripts for convert openalex dataset to postgresql database.
 - Use openalex-pg-schema.sql to create schema
 - Use import_csv_to_postgresql.py import csv to db
 
-## Result Schema
+## Result
+
+- schema
 
 ![zbNXgJ](https://pic.techower.com/uPic/zbNXgJ.png)
+
+- data preview
+
+![3j05LP](https://pic.techower.com/uPic/3j05LP.png)
 
 ## Dumps ans Restore for PG
 
